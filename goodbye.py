@@ -1,1 +1,2 @@
-print("Goodbye, World!")
+def bye():
+    print("Goodbye, World!")
